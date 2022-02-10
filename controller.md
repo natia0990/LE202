@@ -37,30 +37,30 @@
    พอร์ท input/output name implies  
      
        
-4) ชื่อ  
+4) ชื่อ ST STM8   
+
+   ราคา 95  
+     
+   ลิงค์ http://www.ett.co.th/prod2010/STM8/manual/STM8.pdf  
+     
+   ความเร็ว 16 MHz   
+     
+   หน่วยความจำ 8 bit    
+     
+   พอร์ท input/output  PORT RS232 แบบ 4 PIN ETT จำนวน 2 ชอง    
+     
+       
+5) ชื่อ  RISC-V  
 
    ราคา  
      
-   ลิงค์  
+   ลิงค์  https://devopedia.org/risc-v-instruction-sets
      
-   ความเร็ว  
+   ความเร็ว  5 GHz  
      
-   หน่วยความจำ  
+   หน่วยความจำ 32 bit  
      
    พอร์ท input/output  
      
        
-5) ชื่อ  
-
-   ราคา  
-     
-   ลิงค์  
-     
-   ความเร็ว  
-     
-   หน่วยความจำ  
-     
-   พอร์ท input/output  
-     
-       
-  เว้นวรรคให้ยางง
+  
