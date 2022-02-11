@@ -52,15 +52,15 @@
        
 5) ชื่อ  RISC-V  
 
-   ราคา  
+   ราคา  375บาท    
      
-   ลิงค์  https://devopedia.org/risc-v-instruction-sets
+   ลิงค์  https://www.gigadevice.com/products/microcontrollers/gd32/risc-v/mainstream-line/gd32vf103-series/  
      
-   ความเร็ว  5 GHz  
+   ความเร็ว 128KB       
+
+   หน่วยความจำ 32 kb      
      
-   หน่วยความจำ 32 bit  
-     
-   พอร์ท input/output  
+   พอร์ท input/output  3x SPI,2x I2C, 2x USART,2x UART,2x I2S,2x CAN, USBFS  
      
        
   
